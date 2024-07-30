@@ -12,8 +12,7 @@
     <h2><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></h2>
     <ul>
       <li>📊 Data Science student with a passion for Data Engineering and Machine Learning.</li>
-      <li>💻 Self-taught Web developer, currently learning Angular 17.</li>
-      <li>🎯 My Goals include mastering IIoT development and exploring Music Deep Learning.</li>
+      <li>💻 currently learning Angular 17.</li>
 <!--       <li>🌐 Personal website: <a href="https://www.google.com">link</a></li> -->
     </ul>
   </section>
