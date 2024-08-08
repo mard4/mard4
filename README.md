@@ -13,6 +13,7 @@
     <ul>
       <li>📊 MSc Data Science student with a passion for Data Engineering and Web Dev.</li>
       <li>💻 currently learning Angular 17.</li>
+      <li>💻 want to learn: Raspberry PI</li>
 <!--       <li>🌐 Personal website: <a href="https://www.google.com">link</a></li> -->
     </ul>
   </section>
@@ -57,12 +58,6 @@
         <td>
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
           <img src="https://img.shields.io/badge/QlikSense-3A424B?style=for-the-badge&logo=qlik&logoColor=white" alt="QlikSense">
-        </td>
-      </tr>
-      <tr>
-        <td><b>Want to learn</b></td>
-        <td>
-          <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="RaspberryPi">
         </td>
       </tr>
     </table>
