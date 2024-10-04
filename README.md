@@ -6,16 +6,41 @@
   </h2>
   <ul>
     <li>📊 MSc Data Science student with a passion for Data Engineering and Web Development.</li>
-    <li>💻 Currently learning Angular 17.</li>
+    <li>💻 Currently learning Computer Vision, Angular 17.</li>
     <li>💻 Aspiring to learn: Raspberry Pi</li>
   </ul>
 </section>
 
-<section class="skills">
+<section class="connect">
   <h2>
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" alt="Skills"> 
-    Skills
+    Let's Connect
+    <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80" alt="Handshake">
   </h2>
+  <ul>
+    <li>
+      <a href="https://www.linkedin.com/in/martina-d-angelo-9181a4265/" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin:-Martina D'Angelo-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+    </li>
+    <li>
+      <a href="mailto:martina.dangelo@live.it" target="_blank">
+        <img src="https://img.shields.io/badge/gmail:-Martina D'Angelo-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+      </a>
+    </li>
+  </ul>
+</section>
+
+<section class="banner">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Banner">
+</section>
+
+
+<!-- 
+ <section class="skills">
+   <h2>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" alt="Skills"> 
+   Skills
+   </h2>
   <table class="skills-table">
     <thead>
       <tr>
@@ -62,26 +87,5 @@
     </tbody>
   </table>
 </section>
+--/> 
 
-<section class="connect">
-  <h2>
-    Let's Connect
-    <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80" alt="Handshake">
-  </h2>
-  <ul>
-    <li>
-      <a href="https://www.linkedin.com/in/martina-d-angelo-9181a4265/" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin:-Martina D'Angelo-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-      </a>
-    </li>
-    <li>
-      <a href="mailto:martina.dangelo@live.it" target="_blank">
-        <img src="https://img.shields.io/badge/gmail:-Martina D'Angelo-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-      </a>
-    </li>
-  </ul>
-</section>
-
-<section class="banner">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Banner">
-</section>
