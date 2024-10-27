@@ -1,7 +1,7 @@
 
 <section class="about-me">
   <h2>
-    Hi! I'm Marti
+    Hi!
     <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50" alt="About Me">
   </h2>
   <ul>
