@@ -6,8 +6,7 @@
   </h2>
   <ul>
     <li>📊 MSc Data Science student with a passion for Data Engineering and Web Development.</li>
-    <li>💻 Currently learning Computer Vision, Angular 17.</li>
-    <li>💻 Aspiring to learn: Raspberry Pi</li>
+    <li>💻 Currently learning Computer Vision, Angular 17</li>
   </ul>
 </section>
 
