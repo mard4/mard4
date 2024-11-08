@@ -12,10 +12,6 @@
 </section>
 
 <section class="connect">
-  <h2>
-    Let's Connect
-    <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80" alt="Handshake">
-  </h2>
   <ul>
     <li>
       <a href="https://www.linkedin.com/in/martina-d-angelo-9181a4265/" target="_blank">
