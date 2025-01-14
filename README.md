@@ -1,9 +1,9 @@
 
 <section class="about-me">
-  <h2>
+<!--   <h2>
     Hi!
     <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50" alt="About Me">
-  </h2>
+  </h2> -->
   <ul>
     <li>📊 MSc Data Science student.</li>
     <li>💻 Currently learning Computer Vision, Angular 17</li>
